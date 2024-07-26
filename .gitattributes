@@ -1,0 +1,2 @@
+C:/Users/shawn/CODSOFT/TASK[[:space:]]2[[:space:]]-[[:space:]]Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Detection/data/fraudTest.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/shawn/CODSOFT/TASK[[:space:]]2[[:space:]]-[[:space:]]Credit[[:space:]]Card[[:space:]]Fraud[[:space:]]Detection/data/fraudTrain.csv filter=lfs diff=lfs merge=lfs -text
