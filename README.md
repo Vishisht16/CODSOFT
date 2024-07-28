@@ -1,2 +1,2 @@
 # CODSOFT
-Maxchine Learning internship projects between July-Aug 2024
+Machine Learning internship projects between July-Aug 2024
